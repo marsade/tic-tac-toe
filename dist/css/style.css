@@ -23,6 +23,11 @@ body {
   height: 70px;
   border: 3px solid rgb(15, 7, 7);
   border-radius: 3px;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
 }
 .container .one,
 .container .two,
